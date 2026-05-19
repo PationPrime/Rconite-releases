@@ -356,7 +356,6 @@ Rconite is a good fit if you want:
 - WebSocket RCON
 - Drift / SQLite
 - FTP / FTPS / SFTP
-- JSON-based models and desktop UI for Windows, Linux, and macOS
 
 ## Important Note
 
