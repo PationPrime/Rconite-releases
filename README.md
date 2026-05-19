@@ -1,7 +1,7 @@
 # Rconite
 
 <p align="center">
-  <img src="assets/logo/rconite_raccoon_app_icon.png" alt="Rconite logo" width="180">
+  <img src="docs/readme-assets/logo/rconite_raccoon_app_icon.png" alt="Rconite logo" width="180">
 </p>
 
 <p align="center">
