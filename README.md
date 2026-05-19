@@ -351,8 +351,7 @@ Rconite is a good fit if you want:
 
 ## Tech Stack
 
-- Flutter
-- Dart
+- Dart & Flutter
 - WebSocket RCON
 - Drift / SQLite
 - FTP / FTPS / SFTP
